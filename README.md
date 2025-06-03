@@ -36,16 +36,16 @@ I'm a passionate web development student currently expanding my skills in both f
 *Check out my repositories below to see what I've been working on!*
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jorditer&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorditer&layout=compact&theme=radical)
 
 ## 🎯 Goals for 2025
 - Contribute to open-source projects
 - Land my first job as a web developer
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/jordi-terradas-cuenca-08309830a/)
 - 📧 Email: jordi.terradas6@gmail.com
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
